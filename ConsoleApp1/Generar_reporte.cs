@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApp1
+{
+    public interface IGenerar_reporte
+    {
+        public void Generar_reporte();
+
+
+    }
+}
